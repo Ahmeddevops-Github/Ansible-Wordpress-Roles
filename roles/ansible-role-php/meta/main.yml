@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Ahmed Devops 
+  description: A simple role which installs PHP 7.2/7.3/7.4
+  company: Class
+  license: MIT
+  min_ansible_version: 1.4
+  galaxy_tags:
+    - hostname
+dependencies: []
