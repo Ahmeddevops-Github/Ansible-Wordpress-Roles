@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Ahmed Devops
+  description: A simple role which install Apache
+  company: Class
+  license: MIT
+  min_ansible_version: 1.4
+  galaxy_tags:
+    - apache
+    - httpd
+dependencies: []
