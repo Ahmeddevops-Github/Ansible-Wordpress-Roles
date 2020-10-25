@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Ahmed Devops
+  description: A simple role which install WordPress
+  company: Class
+  license: MIT
+  min_ansible_version: 1.4
+  galaxy_tags:
+    - WordPress
+dependencies: [] 

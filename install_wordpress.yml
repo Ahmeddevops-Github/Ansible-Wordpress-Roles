@@ -23,3 +23,8 @@
       mysql_db: "wordpress"
       mysql_user: "{{ wp_mysql_user }}"
       mysql_password: "{{ wp_mysql_password }}"
+
+  - name: Install WordPress
+    import_role:
+      name: ansible-role-wordpress
+
